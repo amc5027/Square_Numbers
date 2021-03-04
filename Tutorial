@@ -1,0 +1,15 @@
+
+
+my_nums = (x*x for x in [1,2,3,4,5])
+
+print my_nums
+
+##_Square_Numbres_##
+my_nums = (x*x for x in [1,2,3,4,5])
+
+print my_nums
+
+  # [1, 4, 9, 16, 25] #
+
+for num in my_nums:
+    print num 
